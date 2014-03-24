@@ -1,0 +1,18 @@
+.scale table {
+	width: auto;
+}
+
+.scale label {
+	margin: 0;
+	line-height: 1;
+}
+
+.scale th,
+.scale td {
+	padding: 5px;
+}
+
+.scale tbody td {
+	border-top: 1px solid #E5E5E5;
+	border-bottom: 1px solid #E5E5E5;
+}
