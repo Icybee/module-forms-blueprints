@@ -29,8 +29,6 @@ Create a `composer.json` file and run `php composer.phar install` command to ins
 }
 ```
 
-This module is part of the modules required by [Icybee](http://icybee.org).
-
 
 
 
